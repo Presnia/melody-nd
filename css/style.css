@@ -97,6 +97,10 @@ main {
   opacity: 1;
 }
 
+path.current-floor {
+  opacity: 1;
+}
+
 .main-info {
   display: flex;
   flex-grow: 1;
